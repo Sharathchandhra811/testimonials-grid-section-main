@@ -1,0 +1,272 @@
+body{
+    width: 1440px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    letter-spacing: 0.5px;
+    background-color: rgb(234, 240, 241);
+}
+.main{
+    position: relative;
+    left: 200px;
+    top: 150px;
+    height: 530px;
+    width: 1055px;
+    background-color: rgb(234, 240, 241);
+}
+
+
+
+
+
+/************************************************div one*******************************/
+
+.one{
+    height: 240px;
+    width:520px;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 7px;
+    position: relative;
+    left:16px ;
+    top: 15px;
+}
+.danimg{
+    height: 28px;
+    width: 28px;
+    border-radius: 100%;
+    position: relative;
+    left: 25px;
+    bottom: 50px;
+    border: 2px solid rgb(196, 117, 196);
+}
+.quotes{
+    position: relative;
+    left: 290px;
+}
+.h-one{
+    font-size: large;
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    left:25px ;
+    bottom: 50px;
+}
+.s-one{
+    position: relative;
+    left: 25px;
+    bottom: 46px;
+    font-size: 11px;
+    color: hsl(0, 3%, 71%);
+    font-weight:500;
+}
+.dan{
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    left: 73px;
+    bottom: 260px;
+}
+.vg1{
+    font-size: 10px;
+    position: relative;
+    left:75px ;
+    bottom: 282px;
+    color:hsl(0, 4%, 76%);
+}
+
+
+
+/************************************* div two ********************************************/
+
+.two{
+    height: 240px;
+    width: 230px;
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 7px;
+    position: relative;
+    bottom:224px ;
+    left: 553px;
+}
+.jonimg{
+    height: 28px;
+    width: 28px;
+    border-radius: 100%;
+    position: relative;
+    left: 28px;
+    top: 23px;
+}
+.jon{
+    color: white;
+    position: relative;
+    bottom: 28px;
+    left: 73px;
+}
+.vg2{
+    color:hsl(0, 4%, 76%);
+    position: relative;
+    font-size: 10px;
+    left: 73px;
+    bottom: 50px;
+}
+.h-two{
+    font-size: large;
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    left: 28px;
+    bottom:45px ;
+}
+.s-two{
+    font-size: 11px;
+    position: relative;
+    color:hsl(0, 4%, 76%);
+    left: 28px;
+    bottom: 45px;
+}
+
+
+
+/*******************************************div three*********************************/
+
+.three{
+    height:483px ;
+    width:235px;
+    position: relative;
+    left: 800px;
+    bottom:463px ;
+    background-color: white;
+    border-radius: 7px;
+}
+.kirimg{
+    height: 28px;
+    width: 28px;
+    border-radius: 100%;
+    position: relative;
+    left: 28px;
+    top: 23px;
+}
+.kir{
+    position: relative;
+    left: 75px;
+    bottom: 30px;
+}
+.h-three{
+    font-size: large;
+    position: relative;
+    left: 28px;
+    bottom: 46px;
+    color: hsl(219, 29%, 14%);
+}
+.vg3{
+    
+    position: relative;
+    font-size: 10px;
+    left: 75px;
+    bottom: 50px;
+    color: hsl(0, 3%, 64%);
+}
+.s-three{
+    position: relative;
+    left: 28px;
+    font-size: 11px;
+    bottom: 45px;
+    color:hsl(0, 3%, 64%) ;
+    line-height: 14.8px;
+}
+
+
+
+/***********************************************div four*******************************/
+
+.four{
+    width:499px ;
+    height: 233px;
+    background-color: black ;
+    border-radius: 7px;
+    position: relative;
+    left: 280px;
+    bottom: 694px;
+}
+.patimg{
+    height: 28px;
+    width: 28px;
+    border-radius: 100%;
+    position: relative;
+    left: 28px;
+    top: 23px;
+    border: 2px solid rgb(196, 117, 196)
+}
+.pat{
+    position: relative;
+    left: 75px;
+    bottom: 30px;
+    color: white;
+}
+.vg4{
+    position: relative;
+    font-size: 10px;
+    left: 75px;
+    bottom: 50px;
+    color: hsl(0, 3%, 64%);
+}
+.h-four{
+    font-size: large;
+    position: relative;
+    left: 28px;
+    bottom: 46px;
+    color: white;
+}
+.s-four{
+    position: relative;
+    left: 28px;
+    font-size: 11px;
+    bottom: 45px;
+    color:hsl(0, 3%, 64%) ;
+    line-height: 14.8px;
+}
+
+
+
+
+/***************************************div five****************************************/
+
+.five{
+    height: 230px;
+    width: 245px;
+    background-color: white;
+    border-radius: 7px;
+    position: relative;
+    left: 18px;
+    bottom: 926px;
+}
+.jeaimg{
+    height: 28px;
+    width: 28px;
+    border-radius: 100%;
+    position: relative;
+    left: 28px;
+    top: 23px;
+}
+.jea{
+    position: relative;
+    left: 75px;
+    bottom: 30px;color:  hsl(219, 29%, 14%);
+}
+.vg5{
+    
+    position: relative;
+    font-size: 10px;
+    left: 75px;
+    bottom: 50px;
+    color: hsl(0, 3%, 64%);
+}
+.h-five{
+    font-size: large;
+    position: relative;
+    left: 28px;
+    bottom:45px ;
+    color: hsl(219, 29%, 14%);
+}
+.s-five{
+    position: relative;
+    font-size: 11px;
+    left: 28px;
+    bottom: 45px;
+    color:hsl(0, 3%, 64%) ;
+    line-height: 14.8px;
+}
